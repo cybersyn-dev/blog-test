@@ -18,7 +18,11 @@
         <id>https://cybersyn-dev.github.io/blog-test/yikes-another-blog-post/</id>
 
         <updated>2025-03-16T22:13:46-05:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Warning, this is going to be a brief post Column 1 Column&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--success">Warning, this is going to be a brief post</p>
