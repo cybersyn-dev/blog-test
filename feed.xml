@@ -18,11 +18,7 @@
         <id>https://blog.cybersyn.cloud/yikes-another-blog-post/</id>
 
         <updated>2025-03-16T22:13:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Warning, this is going to be a brief post Column 1 Column&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--success">Warning, this is going to be a brief post</p>

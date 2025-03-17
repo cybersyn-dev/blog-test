@@ -13,7 +13,6 @@
             "id": "https://blog.cybersyn.cloud/yikes-another-blog-post/",
             "url": "https://blog.cybersyn.cloud/yikes-another-blog-post/",
             "title": "Yikes, another blog post",
-            "summary": "Warning, this is going to be a brief post Column 1 Column&hellip;",
             "content_html": "<p class=\"msg msg--success\">Warning, this is going to be a brief post</p>\n<p> </p>\n<table class=\"table-bordered table-striped align-center\" style=\"border-collapse: collapse; width: 100%; height: 96.4584px; border-color: #CED4D9; border-style: groove;\" border=\"1\">\n<tbody>\n<tr style=\"height: 48.2292px;\">\n<td style=\"width: 33.3007%; height: 48.2292px;\"><strong>Column 1</strong></td>\n<td style=\"width: 33.3007%; height: 48.2292px;\"><strong>Column 2</strong></td>\n<td style=\"width: 33.3037%; height: 48.2292px;\">Column 3</td>\n</tr>\n<tr style=\"height: 48.2292px;\">\n<td style=\"width: 33.3007%; height: 48.2292px;\"> </td>\n<td style=\"width: 33.3007%; height: 48.2292px;\"> </td>\n<td style=\"width: 33.3037%; height: 48.2292px;\"> </td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "admin"
