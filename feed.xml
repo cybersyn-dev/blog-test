@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>blogosphere</title>
-    <link href="https://cybersyn-dev.github.io/blog-test/feed.xml" rel="self" />
-    <link href="https://cybersyn-dev.github.io/blog-test" />
+    <link href="https://blog.cybersyn.cloud/feed.xml" rel="self" />
+    <link href="https://blog.cybersyn.cloud" />
     <updated>2025-03-16T22:17:28-05:00</updated>
     <author>
         <name>admin</name>
     </author>
-    <id>https://cybersyn-dev.github.io/blog-test</id>
+    <id>https://blog.cybersyn.cloud</id>
 
     <entry>
         <title>Yikes, another blog post</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://cybersyn-dev.github.io/blog-test/yikes-another-blog-post/"/>
-        <id>https://cybersyn-dev.github.io/blog-test/yikes-another-blog-post/</id>
+        <link href="https://blog.cybersyn.cloud/yikes-another-blog-post/"/>
+        <id>https://blog.cybersyn.cloud/yikes-another-blog-post/</id>
 
         <updated>2025-03-16T22:13:46-05:00</updated>
             <summary>
